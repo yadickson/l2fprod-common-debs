@@ -1,0 +1,21 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: L2FProd Common Parent POM
+Source: https://github.com/sarxos/l2fprod-common
+
+Files: *
+Copyright: 2012-2016, Bartosz Firyn (SarXos)
+License: Apache-2.0
+
+Files: debian/*
+Copyright: 2016, Yadickson Soto <yadickson@gmail.com>
+License: GPL-3
+
+License: Apache-2.0
+ On Debian systems, the full text of the Apache-2.0 license
+ can be found in the file '/usr/share/common-licenses/Apache-2.0'
+
+License: GPL-3
+ On Debian systems, the full text of the Apache-2.0 license
+ can be found in the file '/usr/share/common-licenses/GPL-3'
+
+

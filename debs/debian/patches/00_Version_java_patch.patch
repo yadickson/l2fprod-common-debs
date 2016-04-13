@@ -1,0 +1,17 @@
+--- l2fprod-common-10.0+git20140404~5097c63/l2fprod-common-shared/src/main/java/com/l2fprod/common/Version.java	2014-04-04 12:33:33.000000000 -0430
++++ l2fprod-common-10.0+git20140404~5097c63~/l2fprod-common-shared/src/main/java/com/l2fprod/common/Version.java	2016-04-13 18:29:00.755950148 -0430
+@@ -52,11 +52,11 @@
+    public static final String getBuildTimestamp() { return buildTimestamp; }
+ 
+ 
+-   /** version (set during build process to "9.2"). */
+-   private static String version = new String("9.2");
++   /** version (set during build process to "10.0"). */
++   private static String version = new String("10.0");
+ 
+    /**
+-    * Get version (set during build process to "9.2").
++    * Get version (set during build process to "10.0").
+     * @return String version
+     */
+    public static final String getVersion() { return version; }
