@@ -14,6 +14,8 @@ Build Debian Package for l2fprod-common
 - Debian wheezy
 - Debian jessie
 
-[Home page](https://github.com/sarxos/l2fprod-common)
-[Release page](https://github.com/yadickson/l2fprod-common-debs/releases)
+**Links**
+
+- [Home page from source code](https://github.com/sarxos/l2fprod-common)
+- [Debian source code release](https://github.com/yadickson/l2fprod-common-debs/releases)
 
