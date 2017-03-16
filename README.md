@@ -13,6 +13,7 @@ Build Debian Package for l2fprod-common
 
 - Debian wheezy
 - Debian jessie
+- Debian stretch
 
 **Links**
 
