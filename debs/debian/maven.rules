@@ -1,4 +1,0 @@
-
-com.github.sarxos l2fprod-common-parent pom s/.*/debian/ * *
-com.github.sarxos l2fprod-common-shared jar s/.*/debian/ * *
-com.github.sarxos l2fprod-common-sheet jar s/.*/debian/ * *
