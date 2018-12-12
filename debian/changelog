@@ -1,3 +1,9 @@
+l2fprod-common (10.0+git20140404~5097c63-5) buster; urgency=medium
+
+  * New release.
+
+ -- Yadickson Soto <yadickson@gmail.com>  Wed, 12 Dec 2018 13:56:33 -0300
+
 l2fprod-common (10.0+git20140404~5097c63-4) stretch; urgency=medium
 
   * New release.
