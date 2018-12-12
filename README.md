@@ -59,6 +59,6 @@ Apache-2.0 © [L2FProd.com Common Components](http://freshmeat.sourceforge.net/p
 
 MIT © [Bartosz Firyn (SarXos)](https://github.com/sarxos/l2fprod-common)
 
-[travis-image]: https://api.travis-ci.org/yadickson/l2fprod-common-debs.svg?branch=buster
+[travis-image]: https://api.travis-ci.org/yadickson/l2fprod-common-debs.svg?branch=master
 [travis-url]: https://travis-ci.org/yadickson/l2fprod-common-debs
 
