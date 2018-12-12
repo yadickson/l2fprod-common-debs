@@ -1,8 +1,8 @@
-l2fprod-common (10.0+git20140404~5097c63-4) UNRELEASED; urgency=medium
+l2fprod-common (10.0+git20140404~5097c63-4) stretch; urgency=medium
 
   * New release.
 
- -- Yadickson Soto <yadickson@gmail.com>  Wed, 12 Dec 2018 13:52:44 -0300
+ -- Yadickson Soto <yadickson@gmail.com>  Wed, 12 Dec 2018 13:54:54 -0300
 
 l2fprod-common (10.0+git20140404~5097c63-3) jessie; urgency=medium
 
